@@ -5,4 +5,4 @@
 
 [![Altaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=altafsayeed&count_private=true&show_icons=true&theme=radical)](https://github.com/altafsayeed/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altafsayeed&hide=python&show_icons=true&theme=radical)](https://github.com/altafsayeed/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altafsayeed&show_icons=true&theme=radical)](https://github.com/altafsayeed/github-readme-stats)
