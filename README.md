@@ -3,7 +3,5 @@
 - 🌱 I’m currently learning Python, JavaScript, and React
 - 📫 How to reach me: altafsayeed19@yahoo.com
 
-<!---
-altafsayeed/altafsayeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Altaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=altafsayeed)](https://github.com/altafsayeed/github-readme-stats)
+
